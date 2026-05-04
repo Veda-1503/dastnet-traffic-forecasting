@@ -17,6 +17,9 @@ Run the Streamlit dashboard via the notebook on Kaggle.
 ## Weights
 Pretrained weights available at: https://www.kaggle.com/datasets/mememeemmeme/traffic-weights
 
+## Notebook
+https://www.kaggle.com/code/mememeemmeme/notebookf7070e23e1
+
 ## Requirements
 - Python 3.6+
 - PyTorch
