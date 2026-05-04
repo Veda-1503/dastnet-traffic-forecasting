@@ -15,7 +15,7 @@ Run the Streamlit dashboard via the notebook on Kaggle.
 - [PEMS-BAY](https://kaggle.com/datasets/YOUR_USERNAME/traffic-weights)
 
 ## Weights
-Pretrained weights available at: https://kaggle.com/datasets/YOUR_USERNAME/traffic-weights
+Pretrained weights available at: https://www.kaggle.com/datasets/mememeemmeme/traffic-weights
 
 ## Requirements
 - Python 3.6+
